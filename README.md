@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+BE Platform Lead; Apache Kafka Community Catalyst; Creator; Writer; Speaker.
+
+You can learn more about me here: https://linktr.ee/ofirsharony
+
 <!--
 **ofirsharony/ofirsharony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
