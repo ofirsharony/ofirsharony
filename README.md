@@ -2,6 +2,8 @@
 
 BE Platform Lead; Apache Kafka Community Catalyst; Creator; Writer; Speaker.
 
+Making things happen.
+
 You can learn more about me here: https://linktr.ee/ofirsharony
 
 <!--
